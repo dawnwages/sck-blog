@@ -25,7 +25,7 @@ export default ({ children }) => {
       </header>
       {children}
       <footer className="site-footer">
-        <p>&copy; {new Date().getFullYear()} Delog &bull; Crafted with <span role="img" aria-label="love">❤️</span> by <a href="https://glittertech.dev/about">The Stoned Code Killer</a></p>
+        <p>&copy; {new Date().getFullYear()} GlitterTech &bull; Crafted with <span role="img" aria-label="love">❤️</span> by <a href="https://glittertech.dev/about">The Stoned Code Killer</a></p>
       </footer>
     </div>
   )
